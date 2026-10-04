@@ -14,18 +14,18 @@ Ek all-in-one Android app jisme **powerful tools** aur **community** — dono ek
 **Website:** https://silencorex.github.io/Premium-Updates/
 
 Website pe jao, **"Secure Download"** button daba, aur APK install kar lo.
-
+ 
 ---
 
-## ✨ Features
+##  Features
 
-### 👥 Community
+###  Community
 
 - **Post System** — Apna kaam share karo, doosron ka dekho
 - **Message System** — Real-time chat, reaction, reply threads, voice clips
 - **Group Chat System** — Rooms banao, voice notes bhejo, admin tools use karo
 
-### 🛠️ Tools
+###  Tools
 
 - **AI Image Generator** — Flux 1.1 model, 4K upscale, style presets
 - **QR Generator** — Dynamic QR with logo, scan stats, batch mode
@@ -34,7 +34,7 @@ Website pe jao, **"Secure Download"** button daba, aur APK install kar lo.
 - **Print Text** — Smart printing & label maker integration
 - **Device Boost** — RAM optimize karo, battery clean karo
 
-### 💎 Extra
+###  Extra
 
 - **Sale Option** — Exclusive deals & partner discounts
 - **Profile System** — Advanced privacy controls & custom themes
@@ -43,7 +43,7 @@ Website pe jao, **"Secure Download"** button daba, aur APK install kar lo.
 
 ---
 
-## 🧰 Built With
+##  Built With
 
 - **Sketchware** — Block-based Android app development
 - **DeepSeek** — Code help & error fixing
